@@ -1,1 +1,1 @@
-All rights reserved to Rocklen Jeong and Patrick Tow. Please do not reuse code in any way, this is intended for playing only.
+All rights reserved to Rocklen Jeong and Patrick Tow. Please do not reuse code in any way, this is intended for playing only. The controls use the space bar as the start button, push button 0 or the down arrow key as the crouch button, and the push button 1 or the up arrow key as the jump button. The crouch is held for as long as the button is held, while the jump occurs on release of the button.
